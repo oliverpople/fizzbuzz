@@ -12,6 +12,7 @@ The objective of Fizzbuzz is to create a program with the following specificatio
 ## Getting started
 
 `git clone https://github.com/oliverpople/fizzbuzz.git`
+
 `$ gem install rspec` (if rspec is not already installed)
 
 ## Usage
